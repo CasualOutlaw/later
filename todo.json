@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Priority System",
+    "description": "A simple way to order your to-do list based on some priority system could be useful"
+  },
+  {
+    "title": "Code cleanup",
+    "description": "Currently, the input handling feels clunky and might need some cleanup"
+  },
+  {
+    "title": "Better parser",
+    "description": "Current parser just reads from one quote to the other, a better system which also handles escaping could be nice"
+  }
+]

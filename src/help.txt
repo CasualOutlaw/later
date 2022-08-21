@@ -1,0 +1,20 @@
+Commands:
+  add <title> [description]
+  - Adds a new item to your to-do list.
+  
+  remove <pos>
+  - Removes item at `pos`, where `pos` is the index in the list starting at 1.
+  
+  list
+  - Lists everything in your to-do list
+  
+  load <file>
+  - Loads a previously saved list from `file`
+  
+  save <file>
+  - Saves your current session to `file`
+
+  help
+  - Displays this message
+  
+* <>: Required, []: Optional
